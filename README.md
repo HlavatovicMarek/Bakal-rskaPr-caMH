@@ -1,5 +1,4 @@
-this is my repository readme
-
-1. git add .
-2. git commit -m "nazovv commitu" 
-3. git push origin main 
+ Môj README repozitár
+ git add .
+ git commit -m "treti commit" 
+ git push origin main 
